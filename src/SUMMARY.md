@@ -5,6 +5,7 @@
 - [Sintaksė](./syntax.md)
 - [CSS selektoriai](./css_selector.md)
 - [Užduotis 1](./exercise_1.md)
+- [Flowchart of the cascade showing declaration precedence](./flowchart_cascade_declaration_precedence.md)
 - [Descendant (palikuonių :D) selektorius](./descendant_selectors.md)
 - [Užduotis 2](./exercise_2.md)
 - [Child (vaiko :D) selektorius](./child_selectors.md)
