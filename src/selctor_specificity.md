@@ -74,3 +74,8 @@ input.classname {
 ```
 
 Specifiškumas čia bus (1, 0, 1, 1)
+
+P.S.
+```
+*Pseudo-class selectors (for example, :hover) and attribute selectors (for example, [type="input"]) each have the same specificity as a class selector. The universal selector (*) and combinators (>, +, ~) have no effect on specificity.*
+```
