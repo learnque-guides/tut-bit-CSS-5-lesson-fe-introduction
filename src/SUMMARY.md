@@ -3,6 +3,7 @@
 - [Kas tai yra CSS?](./what_css_is.md)
 - [Kaip pritaikyti CSS HTML dokumente?](./how_to_use_css.md)
 - [Sintaksė](./syntax.md)
+- [Box model](./box_model.md)
 - [CSS selektoriai](./css_selector.md)
 - [Užduotis 1](./exercise_1.md)
 - [Flowchart of the cascade showing declaration precedence](./flowchart_cascade_declaration_precedence.md)
